@@ -29,3 +29,9 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="RAVI GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ravimaurya1&show_icons=true&hide_border=true" />
+
+</details>
