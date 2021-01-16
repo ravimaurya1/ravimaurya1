@@ -1,6 +1,6 @@
 ### Hi there, I'm Ravi Maurya 👋
 
-
+<img src ="https://github.com/ravimaurya1/Music-app/blob/main/player.png"/>
 
 - 🔭 I’m currently working on ...Social Media using reactjs and node js
 - 🌱 I’m currently learning ...Reactjs and Node Js
